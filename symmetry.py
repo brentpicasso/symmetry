@@ -146,6 +146,7 @@ class Symmetry:
                     Point(mirror2_point.x, abs(mirror2_point.y)),
                 ):
                     symmetrical = False
+                    break
 
             if symmetrical:
                 # Get the original symmetry points and stash

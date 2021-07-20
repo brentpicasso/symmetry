@@ -90,7 +90,7 @@ class ShapeCanvas(BoxLayout):
             size_hint_y: None
             height: dp(50)
             Label:
-                text: 'Offset X'
+                text: 'Translate X'
                 size_hint_x: None
                 width: dp(100)
             Label:
@@ -103,7 +103,7 @@ class ShapeCanvas(BoxLayout):
                 id: xoffset
                 on_value: root._on_x_offset(*args)
             Label:
-                text: 'Offset Y'
+                text: 'Translate Y'
                 size_hint_x: None
                 width: dp(100)
             Label:
