@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/3267533/126251930-328016ef-cbbe-4851-8244-cb129c5f3f9e.mp4
+
 # symmetry
 
 ## Requirements
